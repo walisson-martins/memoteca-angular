@@ -16,8 +16,4 @@ export class CriarPensamentosComponent {
   criarPensamento(): void {
     alert('novo');
   }
-
-  cancelar(): void {
-    
-  }
 }
