@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio?",
+      "autoria": "Walisson",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Você veio mesmo, seja bem vindo",
+      "autoria": "Dev",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Super legal, vamos interagir?",
+      "autoria": "backend",
+      "modelo": "modelo3"
+    }
+  ]
+}
