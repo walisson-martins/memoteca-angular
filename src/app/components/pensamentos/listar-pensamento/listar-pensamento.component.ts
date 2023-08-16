@@ -5,4 +5,17 @@ import { Component } from '@angular/core';
   templateUrl: './listar-pensamento.component.html',
   styleUrls: ['./listar-pensamento.component.css'],
 })
-export class ListarPensamentoComponent {}
+export class ListarPensamentoComponent {
+  listaPensamentos = [
+    {
+      conteudo: 'Comunicação',
+      autoria: 'Angular',
+      modelo: 'modelo3',
+    },
+    {
+      conteudo: 'passo infor',
+      autoria: 'Pai',
+      modelo: 'modelo2',
+    },
+  ];
+}
