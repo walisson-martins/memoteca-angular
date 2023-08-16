@@ -82,14 +82,17 @@
 
 .modelo1 {
   box-shadow: 8px 8px 0px #154580;
+  min-width: 250px;
 }
 
 .modelo2 {
   box-shadow: 8px 8px 0px #6bd1ff;
+  min-width: 250px;
 }
 
 .modelo3 {
   box-shadow: 8px 8px 0px #84eec1;
+  min-width: 250px;
 }
 
 input[type="radio"] {
