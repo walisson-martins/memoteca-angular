@@ -1,7 +1,7 @@
 footer {
   background-image: url(/assets/imagens/fundo-rodape.png);
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 0fr;
   grid-template-rows: 1fr;
   gap: 0px 0px;
   grid-template-areas: "TextoCopyright LogoRodape .";
